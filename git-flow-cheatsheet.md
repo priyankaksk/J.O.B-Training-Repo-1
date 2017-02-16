@@ -1,5 +1,4 @@
-# git-flow-cheatsheet
-
+# Gitflow Guide
 
 A condensed guide on the usage of git flow, visit http://danielkummer.github.com/git-flow-cheatsheet/
 
